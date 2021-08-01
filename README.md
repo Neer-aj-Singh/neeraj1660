@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Neeraj Singh
 - 👀 I’m interested in data science, roadtrips on a motorcyle and reading books.
-- 🌱 I’m currently learning full stack data science
+- 🌱 I’m currently learning ML, DL and NLP
 - 💞️ I’m looking to collaborate on data analysis with python.
 - 📫 How to reach me: s.neeraj1660@gmail.com
 
